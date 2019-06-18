@@ -39,7 +39,6 @@ public class te {
 		return 1;
 	}
 	
-<<<<<<< HEAD
 	public int getInt3() {
 		String dd = "rrrrrrr";
 		String dd = "rrrrrrr";
@@ -61,8 +60,6 @@ public class te {
 		return 3;
 	}
 	
-=======
->>>>>>> refs/remotes/origin/develop
 	public int getInt2() {
 		String a = "dd";
 		String a = "dd";
