@@ -60,6 +60,10 @@ public class te {
 		return 3;
 	}
 	
+	public int getA() {
+		return 2;
+	}
+	
 	public int getInt2() {
 		String a = "dd";
 		String a = "dd";
