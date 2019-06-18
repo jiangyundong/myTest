@@ -34,4 +34,8 @@ public class te {
 	public int getInt() {
 		return 1;
 	}
+	
+	public int getInt1() {
+		return 1;
+	}
 }
