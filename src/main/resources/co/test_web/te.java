@@ -32,48 +32,19 @@ public class te {
     }
 	
 	public int getInt() {
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
 		return 1;
 	}
 	
 	public int getInt1() {
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		String a = "sssssssssss";
-		
 		return 1;
+	}
+	
+	public void getB() {
+		
+	}
+	
+	public int getA() {
+		return 2;
 	}
 	
 	public int getInt3() {
