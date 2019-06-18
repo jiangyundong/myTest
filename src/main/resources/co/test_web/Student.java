@@ -19,6 +19,13 @@ public class te {
         {
             System.out.println("输入数值有误！");
         }
+<<<<<<< HEAD
+=======
+        catch(ArithmeticException e2)
+        {
+            System.out.println("输入的总人数不能为0！");
+        }
+>>>>>>> refs/remotes/origin/develop
     }
 	
 	
