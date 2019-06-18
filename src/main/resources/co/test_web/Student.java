@@ -9,7 +9,6 @@ public class te {
         Scanner input=new Scanner(System.in);
         try
         {
-            System.out.println("请输入班级总人数：");
             int count=input.nextInt();
             System.out.println("请输入总成绩：");
             int score=input.nextInt();
@@ -19,15 +18,6 @@ public class te {
         catch(InputMismatchException e1)
         {
             System.out.println("输入数值有误！");
-        }
-        catch(ArithmeticException e2)
-        {
-            System.out.println("输入的总人数不能为0！");
-        }
-        catch(Exception e3)
-        {
-            e3.printStackTrace();
-            System.out.println("发生错误！"+e3.getMessage());
         }
     }
 	

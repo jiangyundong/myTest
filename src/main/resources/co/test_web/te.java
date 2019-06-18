@@ -35,24 +35,4 @@ public class te {
 		return 1;
 	}
 	
-	public int getInt1() {
-		return 1;
-	}
-	
-	public void getB() {
-		
-	}
-	
-	public int getA() {
-		return 2;
-	}
-	
-	public int getInt3() {
-		return 3;
-	}
-	
-	public int getInt2() {
-		System.out.println();
-		return 2;
-	}
 }
