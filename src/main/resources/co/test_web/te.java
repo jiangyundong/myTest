@@ -38,4 +38,22 @@ public class te {
 	public int getInt1() {
 		return 1;
 	}
+	
+	public int getInt2() {
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		String a = "dd";
+		System.out.println();
+		return 2;
+	}
 }
