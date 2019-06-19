@@ -12,7 +12,6 @@ public class te {
             int count=input.nextInt();
             int score=input.nextInt();
             int avg=score/count;    //获取平均分
-            System.out.println("本次考试的平均分为："+avg);
         }
         catch(InputMismatchException e1)
         {

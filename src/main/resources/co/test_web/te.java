@@ -9,7 +9,6 @@ public class te {
         Scanner input=new Scanner(System.in);
         try
         {
-            System.out.println("请输入班级总人数：");
             int count=input.nextInt();
             System.out.println("请输入总成绩：");
             int score=input.nextInt();
