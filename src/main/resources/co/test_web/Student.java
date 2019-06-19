@@ -23,6 +23,10 @@ public class te {
             System.out.println("输入的总人数不能为0！");
         }
     }
-	
+
+    public void A() {
+        System.out.println();
+        System.out.println();
+    }
 	
 }
