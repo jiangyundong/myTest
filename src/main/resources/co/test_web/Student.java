@@ -26,13 +26,8 @@ public class te {
 
     public void getD() {
         for (int i = 0; i < 2; i++) {
-            System.out.println("dd");
         }
     }
 
-    public void A() {
-        System.out.println();
-        System.out.println();
-    }
 
 }

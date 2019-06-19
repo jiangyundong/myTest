@@ -24,11 +24,6 @@ public class te {
         {
             System.out.println("输入的总人数不能为0！");
         }
-        catch(Exception e3)
-        {
-            e3.printStackTrace();
-            System.out.println("发生错误！"+e3.getMessage());
-        }
     }
 	
 	public int getInt() {
